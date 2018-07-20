@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7897e7c4-b9cf-4033-9fdc-24bbc848ea2c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/student.rb" afterPath="$PROJECT_DIR$/lib/student.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/teacher.rb" afterPath="$PROJECT_DIR$/lib/teacher.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/user.rb" afterPath="$PROJECT_DIR$/lib/user.rb" />
-    </list>
+    <list default="true" id="7897e7c4-b9cf-4033-9fdc-24bbc848ea2c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -183,12 +178,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532093208742</updated>
-      <workItem from="1532093211013" duration="1776000" />
+      <workItem from="1532093211013" duration="1938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1776000" />
+    <option name="totallyTimeSpent" value="1938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1109" height="996" extended-state="0" />
